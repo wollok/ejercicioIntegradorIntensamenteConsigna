@@ -24,7 +24,7 @@ Todo recuerdo eventualmente se asienta, lo cual tiene consecuencias diferentes s
 
 En cualquier caso si se intenta asentar a un recuerdo que ya se había asentado, no pasa nada.
 
-Se pide:
+*Se pide:*
 
 1. Hacer que Riley viva un evento, indicando la descripción del mismo, y registrando el recuerdo correspondiente
 2. Asentar un recuerdo
@@ -50,7 +50,8 @@ Por otro lado, a la hora de dormir ocurren muchos procesos mentales en la mente 
 - Restauración cognitiva: se restauran hasta 100 puntos de felicidad (nunca se superan los 1000)
 - Liberación de recuerdos del día: todos los recuerdos del día se liberan, es decir, dejan de ser recuerdos del día. Este proceso siempre es el último en ocurrir. 
 
-Se pide:
+*Se pide:*
+
 6. Saber si Riley niega un recuerdo
 7. Enviar a Riley a dormir, desencadenando todos sus procesos mentales
 
@@ -63,7 +64,7 @@ Finalmente, descubrimos que existen emociones compuestas: se trata de emociones 
 - es alegre si alguna de sus emociones es alegre
 - asienta a un recuerdo aplicando la lógica de todas sus emociones
 
-Se pide:
+*Se pide:*
 
 8. Hacer rememorar algo a Riley 
 9. Extrañas circunstancias aún no entendidas podrían hacer que los recuerdos en la memoria a largo plazo se repitieran. Conocer la cantidad de repeticiones de un recuerdo en la memoria a largo plazo. 
